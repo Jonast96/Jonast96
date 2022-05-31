@@ -1,16 +1,20 @@
-### Hi there 👋
+## Hey 👋, I'm Jon Åstveit and im a front-end student
 
-<!--
-**Jonast96/Jonast96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/Jon-Aastveit/)
 
-Here are some ideas to get you started:
+I'm currently studying front-end development and will be done in the summer of 2023. I've always been really interested in computers and how stuff works, so i'm really enjoying my time studying web development and creating different websites. Outside of my studies try to get out and go hiking, fishing or hang out with friends, but i often end up coding or playing games. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2> 🛠 &nbsp;My Tech Stack</h2>
+
+-HTML5
+
+-CSS
+
+-JavaScript
+
+-WordPress CMS
+
+-GitHub
+
+-AdobeXD
+
