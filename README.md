@@ -14,7 +14,7 @@ I'm currently studying front-end development and will be done in the summer of 2
 
 -WordPress CMS
 
--GitHub
+-Git
 
 -AdobeXD
 
