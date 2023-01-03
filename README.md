@@ -2,7 +2,7 @@
 
 ![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue&link=https://www.linkedin.com/in/Jon-Aastveit/)
 
-I'm currently studying front-end development and will be done in the summer of 2023. I've always been really interested in computers and how stuff works, so i'm really enjoying my time studying web development and creating different websites. Outside of my studies try to get out and go hiking, fishing or hang out with friends, but i often end up coding or playing games. 
+As a student of front-end development, I am highly motivated and eager to continue learning and improving my skills. I am scheduled to graduate in the summer of 2023, and am confident that my passion for computers and technology will lead me to a successful career in the field. In my free time, I enjoy exploring the great outdoors through activities such as hiking and fishing, and also enjoy spending time with friends. However, I often find myself drawn back to my true passion of coding and playing games.
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
