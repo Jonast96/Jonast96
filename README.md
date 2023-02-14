@@ -6,13 +6,19 @@ As a student of front-end development, I am highly motivated and eager to contin
 
 <h2> 🛠 &nbsp;My Tech Stack</h2>
 
--HTML5
+-HTML
 
 -CSS
 
 -JavaScript
 
--WordPress CMS
+-React
+
+-Bootstrap
+
+-Firebase
+
+-WordPress
 
 -Git
 
