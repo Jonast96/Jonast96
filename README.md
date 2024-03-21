@@ -1,10 +1,8 @@
 # Hi! I'm Jon
 
-###  I'm a junior frontend developer based in Bergen, Norway, passionate about creating clean and user-friendly web experiences. 
-Coming from a culinary background, I bring a unique perspective to the development team, valuing teamwork, and always paying attention to detail.
+###  I'm a junior frontend developer based in Bergen, Norway, passionate about creating clean and user-friendly web experiences.
 
-
-I'm constantly on the lookout for new technologies and best practices to improve my development skills. At the moment im taking a deeper dive into NodeJS with express and mongodb, to then transition into learning C# with .NET.
+I'm dedicated to enhancing my skills and am currently delving deeper into NodeJS with Express and MongoDB. My next goal is to explore C# with .NET, broadening my development expertise.
 
 
 # 💻 Tech Stack:
